@@ -1,5 +1,5 @@
 ### Hi,I'am Arjun👋🧑‍💻
-#### Full Stack Develop
+#### Full Stack Developer
 Am a Full Stack Developer from Bengaluru, India.
 In love with JavaScript. 
 I write blogs related to web development.
